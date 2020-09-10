@@ -1,5 +1,5 @@
 module.exports = {
-    publicPath: process.env.SERVER === 'production' ? '/medical-form/' : '/',
+    publicPath:  '/medical-form/',
     css: {
         loaderOptions: {
             sass: {
